@@ -16,7 +16,7 @@
 ## 📊 GitHub Stats
 
 <p><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=haruka08030&show_icons=true&locale=en&layout=compact" alt="haruka08030" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haruka08030&" alt="haruka08030" />
+
 </p>
 
 
