@@ -13,12 +13,6 @@
 
 <h3 align="center">Self-taught dev exploring ideas through code</h3>
 
-## 📊 GitHub Stats
-
-<p><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=haruka08030&show_icons=true&locale=en&layout=compact" alt="haruka08030" />
-
-</p>
-
 
 ## 🧰 Tech Stack
 
